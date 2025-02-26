@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Giovani</h1>
 <h3 align="center">I'm a Digital Analytics Specialist from Brazil</h3>
 
+### About Me:
+
+- 🖥️ Background in Computer Science from USP (University of São Paulo).
+
+- 🚀 Over 6 years of experience in web/app tracking and analytics.
+
+- 🌟 Passionate about solving tracking issues and making data easy to use.
+
 - 🌱 I’m currently **learning SQL, BigQuery, Dataform.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giovaniortolani?tab=repositories](https://github.com/giovaniortolani?tab=repositories)
