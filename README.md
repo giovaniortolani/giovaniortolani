@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [One of the Reasons Why Google Ads Conversion…](https://www.linkedin.com/pulse/one-reasons-why-google-ads-conversion-tags-gtm-failed-giovani-ftghf?trk=portfolio_article-card_title)
+- [Key Observations on Firebase Analytics…](https://www.linkedin.com/pulse/key-observations-firebase-analytics-undocumented-ortolani-barbosa-nlz8f?trk=portfolio_article-card_title)
+- [Consent Granted DOES NOT Reprocess…](https://www.linkedin.com/pulse/consent-granted-does-reprocess-previously-denied-hits-giovani-rxvhf?trk=portfolio_article-card_title)
+- [User Properties *Bug* in GA4 tags via…](https://www.linkedin.com/pulse/user-properties-bug-ga4-tags-via-server-side-gtm-sgtm-giovani-wyzmf?trk=portfolio_article-card_title)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
