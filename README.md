@@ -7,7 +7,7 @@
 - 🚀 Over 6 years of experience in web/app tracking and analytics.
 - 🌟 Passionate about solving tracking issues and making data easy to use.
 - 🌱 I’m currently **learning SQL, BigQuery, Dataform, Google Tag Manager Templates Tests API**.
-- 👨‍💻 All of my projects are available at [https://github.com/giovaniortolani?tab=repositories](https://github.com/giovaniortolani?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/giovaniortolani?tab=repositories](https://github.com/giovaniortolani?tab=repositories). And you can also view all my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Agiovaniortolani+is%3Amerged) (mainly for Google Tag Manager custom templates for GTM web and server).
 - 📝 I regularly write articles on [https://www.linkedin.com/today/author/giovani-ortolani-barbosa](https://www.linkedin.com/today/author/giovani-ortolani-barbosa)
 - 💬 Ask me about **Google Tag Manager, Google Analytics, JavaScript, Digital Analytics, Product Analytics, Server-Side Tracking, Marketing Pixels, Marketing Conversion Tracking for both Web and App.**
 - 📄 Know about my experiences [https://www.linkedin.com/giovani-ortolani-barbosa/](https://www.linkedin.com/giovani-ortolani-barbosa/)
