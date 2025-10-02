@@ -4,7 +4,7 @@
 ### About Me:
 
 - 🖥️ Background in Computer Science from USP (University of São Paulo).
-- 🚀 Over 6 years of experience in web/app tracking and analytics.
+- 🚀 Over 7 years of experience in web/app tracking and analytics.
 - 🌟 Passionate about solving tracking issues and making data easy to use.
 - 🌱 I’m currently **learning SQL, BigQuery, Dataform, Google Tag Manager Templates Tests API**.
 - 👨‍💻 All of my projects are available at [https://github.com/giovaniortolani?tab=repositories](https://github.com/giovaniortolani?tab=repositories). And you can also view all my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Agiovaniortolani+is%3Amerged) (mainly for Google Tag Manager custom templates for GTM web and server).
