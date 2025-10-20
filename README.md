@@ -14,6 +14,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How GTM & gtag Use Service Workers…](https://stape.io/blog/gtm-and-gtag-service-workers)
+- [What are the /set_cookie requests in…](https://stape.io/blog/set-cookie-requests-in-gtm)
+- [How to solve the error in Facebook…](https://stape.io/blog/api-calls-from-the-server-require-appsecret-proof-argument)
 - [One of the Reasons Why Google Ads Conversion…](https://www.linkedin.com/pulse/one-reasons-why-google-ads-conversion-tags-gtm-failed-giovani-ftghf?trk=portfolio_article-card_title)
 - [Key Observations on Firebase Analytics…](https://www.linkedin.com/pulse/key-observations-firebase-analytics-undocumented-ortolani-barbosa-nlz8f?trk=portfolio_article-card_title)
 - [Consent Granted DOES NOT Reprocess…](https://www.linkedin.com/pulse/consent-granted-does-reprocess-previously-denied-hits-giovani-rxvhf?trk=portfolio_article-card_title)
